@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/world/CLionProjects/snake-game/cmake-build-debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -isystem /Users/world/CLionProjects/snake-game/cmake-build-debug/snake_game_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/snake_game.dir/snake_game_autogen/mocs_compilation.cpp.o -c /Users/world/CLionProjects/snake-game/cmake-build-debug/snake_game_autogen/mocs_compilation.cpp",
+  "file": "/Users/world/CLionProjects/snake-game/cmake-build-debug/snake_game_autogen/mocs_compilation.cpp",
+  "output": "/Users/world/CLionProjects/snake-game/cmake-build-debug/CMakeFiles/snake_game.dir/snake_game_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/world/CLionProjects/snake-game/cmake-build-debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -isystem /Users/world/CLionProjects/snake-game/cmake-build-debug/snake_game_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/snake_game.dir/main.cpp.o -c /Users/world/CLionProjects/snake-game/main.cpp",
+  "file": "/Users/world/CLionProjects/snake-game/main.cpp",
+  "output": "/Users/world/CLionProjects/snake-game/cmake-build-debug/CMakeFiles/snake_game.dir/main.cpp.o"
+}
+]

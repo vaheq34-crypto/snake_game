@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+QLabel#board{
+    border: 5px solid black;
+}
+QLabel#snake{
+    background-color: green;
+    width: 20px;
+}
+QWidget {
+    background-color: #9ecf85;
+}
+QPushButton {
+    width: 100px;
+    height: 40px;
+    border: 2px solid #3498db;
+    background-color: grey;
+}
+QLabel{
+    background-color: grey;
+}
+QLabel#apple{
+    background: red;
+    border-radius: 12px;
+}
+QLabel#score{
+    background: none;
+    font-size: 20px;
+}

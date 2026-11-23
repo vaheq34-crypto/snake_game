@@ -1,0 +1,5 @@
+/Users/world/CLionProjects/snake-game/cmake-build-debug/CMakeFiles/snake_game.dir
+/Users/world/CLionProjects/snake-game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/world/CLionProjects/snake-game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/world/CLionProjects/snake-game/cmake-build-debug/CMakeFiles/snake_game_autogen_timestamp_deps.dir
+/Users/world/CLionProjects/snake-game/cmake-build-debug/CMakeFiles/snake_game_autogen.dir
